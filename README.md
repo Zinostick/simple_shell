@@ -282,5 +282,5 @@ $
 
 ## Authors :black_nib:
 
-* Shoyinka Habeebullah <[Donserio](https://github.com/AlexYu01)>
-* Uche Kingsley Ogbonna <[Kinguche2](https://github.com/bdbaraban)>
+* Abdussomad idris
+* 0sauzo efezino gift 
